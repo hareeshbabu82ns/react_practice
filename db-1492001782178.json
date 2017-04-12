@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Anais Bins III",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sawalazar/128.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Paolo Osinski DDS",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danvernon/128.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hailee Doyle",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/amywebbb/128.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Jaclyn O'Keefe",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nilshelmersson/128.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Merritt Rodriguez",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joshaustin/128.jpg"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Eius expedita sunt.",
+      "due": "2017-07-23T19:31:28.237Z",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Dolor et a enim sed deserunt est delectus.",
+      "due": "2017-02-24T18:01:50.481Z",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Veritatis tenetur in quia hic et.",
+      "due": "2017-05-02T10:41:31.015Z",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Beatae laboriosam voluptas aliquam et sint suscipit aut praesentium.",
+      "due": "2016-08-28T06:30:57.713Z",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Iste repudiandae reiciendis enim animi repellendus.",
+      "due": "2018-04-01T21:35:53.212Z",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Delectus voluptates asperiores minima facere.",
+      "due": "2017-11-06T00:47:20.575Z",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Et delectus nihil esse explicabo ratione voluptatum libero numquam provident.",
+      "due": "2017-09-04T16:46:08.026Z",
+      "completed": true
+    },
+    {
+      "id": 8,
+      "title": "Odio saepe dolorem dolore in facere fugit qui mollitia possimus.",
+      "due": "2017-12-23T01:33:09.281Z",
+      "completed": true
+    },
+    {
+      "id": 9,
+      "title": "Beatae doloribus reiciendis nulla rem dignissimos suscipit.",
+      "due": "2017-09-23T16:34:04.388Z",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Nihil iste eum ut ratione.",
+      "due": "2017-05-20T21:06:41.157Z",
+      "completed": true
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "category": "Outdoors",
+      "price": "458.00",
+      "stocked": true,
+      "name": "Unbranded Wooden Tuna"
+    },
+    {
+      "id": 2,
+      "category": "Jewelery",
+      "price": "870.00",
+      "stocked": false,
+      "name": "Generic Cotton Pizza"
+    },
+    {
+      "id": 3,
+      "category": "Garden",
+      "price": "384.00",
+      "stocked": false,
+      "name": "Sleek Plastic Chicken"
+    },
+    {
+      "id": 4,
+      "category": "Music",
+      "price": "116.00",
+      "stocked": false,
+      "name": "Awesome Concrete Bacon"
+    },
+    {
+      "id": 5,
+      "category": "Industrial",
+      "price": "794.00",
+      "stocked": false,
+      "name": "Ergonomic Granite Ball"
+    },
+    {
+      "id": 6,
+      "category": "Outdoors",
+      "price": "122.00",
+      "stocked": true,
+      "name": "Ergonomic Fresh Table"
+    },
+    {
+      "id": 7,
+      "category": "Movies",
+      "price": "711.00",
+      "stocked": false,
+      "name": "Ergonomic Concrete Chips"
+    },
+    {
+      "id": 8,
+      "category": "Kids",
+      "price": "849.00",
+      "stocked": false,
+      "name": "Practical Granite Chips"
+    },
+    {
+      "id": 9,
+      "category": "Movies",
+      "price": "110.00",
+      "stocked": false,
+      "name": "Generic Fresh Towels"
+    },
+    {
+      "id": 10,
+      "category": "Shoes",
+      "price": "244.00",
+      "stocked": true,
+      "name": "Intelligent Soft Shirt"
+    }
+  ]
+}

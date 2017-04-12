@@ -2,7 +2,6 @@
  * Created by hareesh on 11-04-2017.
  */
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
 

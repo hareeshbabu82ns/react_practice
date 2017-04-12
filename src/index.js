@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import FullPageComponent from "./react_practice"
+import StockApp from "./StockApp"
 
 ReactDOM.render(
-    <FullPageComponent/>
+    <StockApp/>
     , document.getElementById('root'));
