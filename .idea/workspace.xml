@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c1ab12a-d0d2-4224-ab22-2ee87b5adc25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TodoApp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/learning/React_Installing_Tools.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/learning/React_basics.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -616,7 +613,7 @@
       <workItem from="1492039693143" duration="2743000" />
       <workItem from="1492101454813" duration="3388000" />
       <workItem from="1492119708826" duration="25000" />
-      <workItem from="1492119791243" duration="7341000" />
+      <workItem from="1492119791243" duration="7390000" />
     </task>
     <task id="LOCAL-00001" summary="StockApp practice base">
       <created>1492005849941</created>
@@ -632,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492109177280</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="React Learning Markup">
+      <created>1492127315590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492127315590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50077000" />
+    <option name="totallyTimeSpent" value="50126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,7 +683,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="StockApp practice base" />
     <MESSAGE value="StockApp practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="StockApp practice" />
+    <MESSAGE value="React Learning Markup" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Learning Markup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
