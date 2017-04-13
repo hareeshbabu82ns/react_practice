@@ -11,6 +11,7 @@
     "semantic-ui-react": "^0.67.2"
   },
   "devDependencies": {
+    "faker": "^4.1.0",
     "react-scripts": "0.9.5"
   },
   "scripts": {
