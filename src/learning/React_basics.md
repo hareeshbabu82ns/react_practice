@@ -126,10 +126,15 @@ ReactDOM.render(
 );
 ```
 ### Lifecycle Methods of a Component
+* ``constructor()``
+* ``componentWillMount()`` before component going to be rendered
+* ``render()`` actual rendering of the component
 * ``componentDidMount()`` after component has been rendered
 * ``componentWillUnmount()`` before component is destroyed
 * ``componentWillUpdate()`` to check if update is required
-* ``componentDidUpdate()`` after updation
+* ``componentWillReceiveProps(nextProps)`` new properties coming into component
+* ``shouldComponentUpdate(nextProps, nextState)`` to prevent re-rendering
+* ``componentDidUpdate(prevProps, prevState)`` after updation
 
 ### Changing State to work with Async
 ```js

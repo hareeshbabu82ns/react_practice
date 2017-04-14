@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import StockApp from "./StockApp"
+import StockStoreProviderApp from "./StockReduxApp"
 
 ReactDOM.render(
-    <StockApp/>
+    <StockStoreProviderApp/>
     , document.getElementById('root'));
